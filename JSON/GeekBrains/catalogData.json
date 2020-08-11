@@ -38,13 +38,13 @@
 	{
 		"productId":"prod_7",
 		"productName":"Grape People T-shirt",
-		"productPrice":"52.00",
+		"productPrice":"12.00",
 		"productImg":"https://github.com/MoffAndrey/Static/blob/master/img/GeekBrains/BrandShop/Featured7.jpg?raw=true"
 	},
 	{
 		"productId":"prod_8",
 		"productName":"Mango People Jeans",
-		"productPrice":"54.00",
+		"productPrice":"14.00",
 		"productImg":"https://github.com/MoffAndrey/Static/blob/master/img/GeekBrains/BrandShop/Featured8.jpg?raw=true"
 	}
 ]
